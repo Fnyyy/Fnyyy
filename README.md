@@ -21,4 +21,4 @@ I'm an Information Systems student who loves blending code with creativity. I en
 
 ![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=Fnyyy&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Fnyyy&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Fnyyy&layout=compact&theme=radical&hide_border=true&hide=html,javascript)
