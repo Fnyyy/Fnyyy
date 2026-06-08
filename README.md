@@ -1,7 +1,6 @@
 ### Hi there, I'm Funnyadi! 👋
 
-I'm an Information Systems student who loves blending code with creativity. I enjoy building web applications, exploring data, and sometimes producing creative media!
-
+I'm an Information Systems student 
 - 🔭 **I’m currently working on:** Web development projects using PHP, Laravel, and Tailwind CSS.
 - 🌱 **I’m currently learning:** Data Science and exploring machine learning using Python and Jupyter Notebooks.
 - 👯 **I’m looking to collaborate on:** Software development, data analytics research, or even creative video production.
